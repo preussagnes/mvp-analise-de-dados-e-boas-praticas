@@ -1,1 +1,3 @@
-# mvp-analise-de-dados-e-boas-praticas
+A Lei Seca brasileira (Lei 11.705/08) sancionada em junho de 2008, foi criada com o objetivo de combater a combinação de álcool e direção e consequentemente reduzir os acidentes e as mortes no trânsito das cidades brasileiras. Estabeleceu-se a tolerância zero para o nível de álcool no sangue dos condutores de veículos, permitiu-se a aplicação de testes de alcoolemia, como o bafômetro, e imputou-se penalidades mais severas, incluindo-se multas, suspensão da habilitação e, em casos graves, a criminalização.
+
+Diante desse cenário, este trabalho objetiva avaliar se a implementação da Lei Seca no Brasil reduziu o número de acidentes de trânsito, relacionados ao consumo de álcool.
